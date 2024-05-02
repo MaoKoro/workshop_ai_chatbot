@@ -2,23 +2,9 @@ version: '3'
 
 services:
 
-  ui-front-end:
-    build:
-      context: ./ui/front
-      dockerfile: Dockerfile
-    networks:
-      - chatbot-net
-    ports:
-      - 3000:3000
-
   api:
     build:
       context: ./back-end
       dockerfile: Dockerfile
-    networks:
-      - chatbot-net
     ports:
       - 8000:8000
-
-networks:
-  chatbot-net:
