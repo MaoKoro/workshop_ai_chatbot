@@ -15,7 +15,8 @@ Vous avez été embauché par l'entreprise Y spécialisé dans les articles et r
 Vous allez devoir réaliser un ChatBot respecteux qui peut communiquer facilement avec les employés. Il devra être efficace dans la création de nouveaux articles et créatif.
 
 ## Aides
-Je vous conseille d'aller voir [cette page](https://www.promptingguide.ai/fr/introduction/elements) pour mieux comprendre comment faire votre *system prompt*.
+**Prompt** - Je vous conseille d'aller voir [cette page](https://www.promptingguide.ai/fr/introduction/elements) pour mieux comprendre comment faire votre *system prompt*.
+**API** - Pour l'utilisation de l'api d'OpenAI [voici leur documentation](https://platform.openai.com/docs/guides/text-generation), attention elle est en anglais !
 
 ---
 Amusez-vous bien et n'hésitez pas à me poser des questions si vous en avez !
