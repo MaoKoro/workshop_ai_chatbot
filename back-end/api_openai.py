@@ -9,8 +9,7 @@ def chat_with_llm(query, messages, system):
     system: prompt système du llm
     """
 
-    KEY = os.getenv("API_KEY_OPENAI")
-    client = OpenAI(api_key=KEY)
+    client = OpenAI(api_key="sk-proj-a6CeujdFG1zIS6p44WgpT3BlbkFJCn7CybrBGWH2TBX3oeix")
 
     # prep_data_f est une fonction qui permet de préparer vos données à envoyer à l'API
     # Vous allez devoir coder ici l'appel de l'API de OpenAI
