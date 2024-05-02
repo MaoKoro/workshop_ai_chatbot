@@ -1,4 +1,4 @@
-# Workshop d'Intelligence Artificielle - Exercises
+# Workshop d'Intelligence Artificielle - Exercices
 <img src="assets/ia_ban3.jpg" alt="Workshop IA">
 
 Ce projet un exercice pour explorer un domaine de l'intelligence artificielle: le NLP.
@@ -8,7 +8,7 @@ Ce projet un exercice pour explorer un domaine de l'intelligence artificielle: l
 
 Avant de commencer le projet, assurez-vous de suivre les instructions dans le fichier [`SETUP.md`](SETUP.md) pour configurer votre environnement de développement Docker avec les tout le nécessaire.
 
-## Exercise: ChatBot
+## Exercice: ChatBot
 <img src="assets/chatbot.png" alt="Neural representation" style="width:550px;height:300px;">
 
 Vous avez été embauché par l'entreprise Y spécialisé dans les articles et revues. En ce moment l'entreprise est en baisse de clients, les articles manquent de nouveautés. Elle a besoin de vous pour ses employés qui n'arrivent plus à trouver de l'inspiration pour leurs nouveaux articles.
