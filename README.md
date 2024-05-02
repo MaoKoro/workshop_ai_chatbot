@@ -16,6 +16,7 @@ Vous allez devoir réaliser un ChatBot respecteux qui peut communiquer facilemen
 
 ## Aides
 **Prompt** - Je vous conseille d'aller voir [cette page](https://www.promptingguide.ai/fr/introduction/elements) pour mieux comprendre comment faire votre *system prompt*.
+
 **API** - Pour l'utilisation de l'api d'OpenAI [voici leur documentation](https://platform.openai.com/docs/guides/text-generation), attention elle est en anglais !
 
 ---
